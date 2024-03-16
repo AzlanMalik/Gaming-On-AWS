@@ -1,0 +1,2 @@
+# Ignore Terraform State and .terraform folder
+terraform/*terraform*
